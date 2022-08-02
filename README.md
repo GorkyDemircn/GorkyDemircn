@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GorkyDemircn
-- 👀 I’m interested in Data Science and want to become a data engineer.
+- 👀 I’m interested in Data Science and I am aspired to become a data engineer.
 - 🌱 I’m currently learning Python, GitHub
-- 💞️ I’m looking to collaborate on my data science projects as a beginner
+- 💞️ I’m looking to collaborate on my data science projects.
 - 📫 How to reach me is looking at my link www.linkedin.com/in/gorkem-demircan-008a8423a
 
 <!---
